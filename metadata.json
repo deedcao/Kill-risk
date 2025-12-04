@@ -1,0 +1,7 @@
+{
+  "name": "SecureQR Sentinel",
+  "description": "A smart QR code scanner that uses AI to analyze potential security risks, detect fraud patterns, and educate users on scam prevention.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
